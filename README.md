@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me: mail me krzempekm@student.agh.edu.pl
 - Link to my page: https://miskrz.github.io/ o/
-- Link to fork repository: https://github.com/miskrz/physiological-analyser
-- Link to article site: https://journals.physiology.org/doi/full/10.1152/jappl.2000.89.5.1879
+- Link to fork repository: https://github.com/miskrz/Detectron
+- Link to article site: https://paperswithcode.com/paper/densepose-dense-human-pose-estimation-in-the#code
 
 <!---
 miskrz/miskrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
